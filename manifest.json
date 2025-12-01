@@ -2,8 +2,8 @@
 	"id": "line-capitalizer",
 	"name": "Line Capitalizer",
 	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Capitalizes the first letter of each line.",
+	"minAppVersion": "1.0.0",
+	"description": "Automatically capitalize the first letter of each line as you type.",
 	"author": "Daniele Secondi",
 	"isDesktopOnly": false
 }
